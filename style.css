@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.copy_right_footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+}
+#start , #number_of_objects, #status
+{
+    font-size: 20px;
+    border-radius: 30px;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 90px;
+    box-shadow: 5px 5px 5px white;
+}
